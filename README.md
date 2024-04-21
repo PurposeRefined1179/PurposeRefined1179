@@ -1,24 +1,3 @@
 ### Hi
-
-/* Nothing interesting to write about me, but here's a poem by me for now: */
-
-उम्मीद की नैया छोड़ कर
-
-मेरी मायूसी की झील में लगाना गोते कभी
-
-मेरी बेतर्क चेतना में झाकना कभी
-
-मेरे मन की मनगढ़ंत कहानियों में डूबना कभी
-
-जब नाव वापस जाओगी, तब दिखेंगी मनगढ़ंत लाशें पानी में तैरते हुए
-
-
-क्या हमने ठग लिया आपको?
-
-डरना मत
-
-लाशें अनित्य है
-
-नाव अनित्य है
-
-झील नित्य है
+I am a Computer Science Engineering student at IIT Hyderabad.
+My current interests are: writing, stand-up comedy and human behavioral biology.
